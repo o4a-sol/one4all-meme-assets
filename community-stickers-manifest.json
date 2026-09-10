@@ -1,0 +1,36 @@
+{
+  "collection": "Optional Solana community laptop stickers",
+  "date": "2026-09-10",
+  "assets": [
+    {
+      "path": "/pfp/stickers/bonk.png",
+      "bytes": 716703,
+      "sha256": "ad5691836834e0cc36108358564216d80a666ab646e3583773c0166999b6b786"
+    },
+    {
+      "path": "/pfp/stickers/popcat.png",
+      "bytes": 144520,
+      "sha256": "5c57eeb167c61f556e29b99c093602b9c260d78908fb4c3dff2f9acb912eb389"
+    },
+    {
+      "path": "/pfp/stickers/mew.svg",
+      "bytes": 5346,
+      "sha256": "bfd4dd22b0f34b489df415ce4ce6e5a77254a75ebd6d5608df1254fb75bddfab"
+    },
+    {
+      "path": "/pfp/stickers/ponke.svg",
+      "bytes": 13895,
+      "sha256": "50380d70e0fdbe08ba19cd0aa53e4c38d996afc4b07e23bb6a47d8751690f05b"
+    },
+    {
+      "path": "/pfp/stickers/wen.webp",
+      "bytes": 53220,
+      "sha256": "c78fe62cd668daaba41a05268b236c034f20123310173cc20f354795389f81c9"
+    },
+    {
+      "path": "/pfp/stickers/moodeng.png",
+      "bytes": 61239,
+      "sha256": "51e3494990e684334a336da4ba4169639dd4b7feb7a1848e80be544df3343f37"
+    }
+  ]
+}

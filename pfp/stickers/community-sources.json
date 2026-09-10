@@ -1,0 +1,14 @@
+{
+  "addedAt": "2026-09-10",
+  "purpose": "User-requested community artwork for optional laptop decals in the public PFP maker. No partnership or endorsement claimed.",
+  "processing": "Original source files retained unchanged. Canvas contains the complete artwork proportionally inside a vinyl backing, then applies the existing laptop perspective and lid clip.",
+  "ownership": "Third-party names and character artwork remain with their respective owners. This record documents sources, not an ownership or blanket license claim.",
+  "assets": [
+    { "id": "bonk", "file": "bonk.png", "page": "https://brand.bonkcoin.com/", "source": "https://brand.bonkcoin.com/images/master_logo.png" },
+    { "id": "popcat", "file": "popcat.png", "page": "https://popcatsolana.xyz/", "source": "https://popcatsolana.xyz/_next/static/media/mouth-open.d5a7be8e.png" },
+    { "id": "mew", "file": "mew.svg", "page": "https://mew.xyz/", "source": "https://mew.xyz/logo-head.svg" },
+    { "id": "ponke", "file": "ponke.svg", "page": "https://www.ponke.xyz/", "source": "https://www.ponke.xyz/images/head.svg" },
+    { "id": "wen", "file": "wen.webp", "page": "https://www.wenwencoin.com/", "source": "https://www.wenwencoin.com/logo.webp" },
+    { "id": "moodeng", "file": "moodeng.png", "page": "https://www.moodengsol.com/", "source": "https://cdn.prod.website-files.com/68c07399bb1ba511d6cfb3a8/68c07399bb1ba511d6cfb417_moodengwebclip.png" }
+  ]
+}
